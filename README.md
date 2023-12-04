@@ -8,8 +8,10 @@
 - 항상 새로운 기술과 도구에 대한 열정을 가지고 적극적으로 학습하는 개발자입니다.
 - 팀과의 원활한 커뮤니케이션과 협업 능력을 갖추어 함께 목표를 달성하는데 기여할 수 있습니다. 
 - 문제 해결과 사용자 요구사항을 충족하는 솔루션을 제공하는데 집중하는 개발자입니다.
-- ### 🦾 Skills<br>
+- ### 🦾 Skills <br>
 **🧑‍💻 Lang and Frameworks**
+
+
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white) ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white) 
 
 **🛠️ Infra and Tools**
