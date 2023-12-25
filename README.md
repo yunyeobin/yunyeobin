@@ -19,5 +19,4 @@
 
 
 ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) 
-<img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
-![velog](https://velog.io/@fabulous773/posts)
+
