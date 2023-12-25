@@ -19,4 +19,4 @@
 
 
 ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) 
-https://velog.io/@fabulous773/posts
+![velog](https://velog.io/@fabulous773/posts)
