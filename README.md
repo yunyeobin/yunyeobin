@@ -27,3 +27,8 @@
 ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![intellij](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
+
+### 🚌 Top Langs & Algorithm
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunyeobin&layout=compact)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=______)](https://solved.ac/______)
