@@ -29,8 +29,7 @@
 
 
 ### 🚌 Top Langs & Algorithm
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunyeobin&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunyeobin&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunyeobin&layout=donut)](https://github.com/yunyeobin/github-readme-stats)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=______)](https://solved.ac/______)
