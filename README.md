@@ -28,7 +28,3 @@
 <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
 
-### 🚌 Top Langs & Algorithm
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunyeobin&layout=donut)](https://github.com/yunyeobin/github-readme-stats)
-
-
